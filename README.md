@@ -3,7 +3,7 @@
 * [Apresentação](#Apresentação)
 * [Descrição do Projeto](#Descrição)
 * [Status do Projeto](#Status)
-* [Objetivos do Projeto](## 🔨 Objetivos)
+* [Objetivos do Projeto](#Objetivos)
 * [Funcionalidades e Demonstração da Aplicação](#Funcionalidades)
 * [Cadastrando seus Amigos](#Cadastrando)
 * [Desenvolvimento](#Desenvolvimento)
@@ -31,7 +31,7 @@
 <p>- Na classe principal foi elaborado um menu, com algumas opções (ver imagem abaixo), como: cadastrar artista, cadastrar música, pesquisar músicar por artistas, etc;</p>
 <p></p>
 
-## 🔨 Objetivos
+# Objetivos
 <p>O objetivo deste projeto foi a prática na modelagem de classes e relacionamentos utilizando o Spring Data JPA.</p>
 <p>- Com destaque para a implementação de funções para uma relação adequada entre Artista e Música, visto que um artista pode estar associado a mais de uma música;</p>
 <p>- Uma música só deve ser salva no banco de dados, caso o Artista tenha sido previamente cadastrado;</p>
@@ -49,7 +49,7 @@
 <p>Esta ferramenta (através deste projeto) possui interação com o usuário através da tela do terminal, onde destacamos um Menu contendo algumas opções.</p>
 <p></p>
 
-# Desenvolvimento
+# Desenvolvimento 🔨
 <p>Ferramenta desenvolvida por Reinaldo Rodrigues (https://github.com/rrodrigues-ftc).</p>
 <p>Apaixonado por tecnologia e entusiasta da automação de processos, e que adora desafios. E este foi um dos bons!</p>
 <p></p>
