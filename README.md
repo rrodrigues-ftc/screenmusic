@@ -60,7 +60,7 @@
 # Licença
 ![Licença 2](assets/one.jpg)
 ![Licença 1](assets/AluraOracle.jpg)
-![Licença 3](assets/ExchangeRateAPI.jpg)
+![Licença 3](assets/GeminiAI.jpg)
 
 
 # Conclusão
