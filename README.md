@@ -13,7 +13,11 @@
 
 
 # Apresentação
-![Apresentação Resumida](assets/Read-me.jpg)
+![Apresentação da Tela/Menu](assets/Menu.jpg)
+<p></p>
+<p>Projeto JAVA com interação através do Terminal da Ferramenta (neste caso IntelliJ.</p>
+<p></p>
+
 
 
 # Descrição
@@ -42,8 +46,6 @@
 <p></p>
 
 # Funcionalidades
-![Apresentação da Tela/Menu](assets/Menu.jpg)
-<p></p>
 <p>Esta ferramenta (através deste projeto) possui interação com o usuário através da tela do terminal, onde destacamos um Menu contendo algumas opções.</p>
 <p></p>
 
