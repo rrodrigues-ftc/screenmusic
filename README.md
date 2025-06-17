@@ -56,7 +56,7 @@
 
 # Tecnologias
 <p>No repositório serão encontrados arquivos correspondentes a JAVA.</p>
-<p>O domínio https://www.exchangerate-api.com/ exige a utilização de uma API-KEY exclusiva. Acesse o site e realize seu cadastro.</p>
+<p>A utilização/integração do GeminiAI exige a utilização de uma API-KEY exclusiva. Acesse o site https://cloud.google.com/application-integration/docs/build-integrations-gemini?hl=pt-br e realize seu cadastro.</p>
 <p></p>
 
 # Licença
